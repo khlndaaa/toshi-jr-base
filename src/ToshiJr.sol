@@ -9,5 +9,4 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
  */
 contract HelloERC20 is ERC20 {
     constructor() ERC20("Toshi Jr", "TOSHI JR") {}
-}commit message:
-feat: create src folder and ToshiJr.sol
+}    
